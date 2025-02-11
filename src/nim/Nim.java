@@ -1,4 +1,4 @@
-package cz.cuni.mff.riazhsks.socketmulti;
+package nim;
 
 import java.io.*;
 import java.net.*;
